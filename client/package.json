@@ -7,7 +7,7 @@
     "nonce": "^1.0.4",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
-    "react-scripts": "0.2.2",
+    "react-scripts": "1.0.15",
     "react-select": "^1.0.0-rc.2",
     "superagent": "^2.2.0"
   },
